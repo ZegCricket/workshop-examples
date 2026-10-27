@@ -1,0 +1,10 @@
+[project]
+name = "python"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+  "harp-data>=0.5.0",
+  "ipykernel>=7.4.0",
+  "matplotlib>=3.11.2",
+]
